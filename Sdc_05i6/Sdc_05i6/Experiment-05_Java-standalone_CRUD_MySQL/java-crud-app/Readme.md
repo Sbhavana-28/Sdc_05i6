@@ -96,6 +96,9 @@ java -cp ".;bin;lib/mysql-connector-j-9.3.0.jar" Main
 Contributing
 Feel free to fork this repository and suggest improvements via pull requests. All contributions are welcome!
 
+Attach sceernshot
+![Image](https://github.com/user-attachments/assets/cc87b26e-ebef-460b-ad14-9c1c82fa6cc8)
+
 License
 This project is open-source and available under the MIT License
 
