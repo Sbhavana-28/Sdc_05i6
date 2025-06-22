@@ -35,5 +35,7 @@ Bootstrap Integration
 The Bootstrap framework is included via CDN in the <head> section of paybycreditcard.html:
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
+Attach screenshot 
+![Image](https://github.com/user-attachments/assets/abf73014-b82b-4829-8e86-08adfbfadc85)
 License
 This project is open-source and available under the MIT License.
